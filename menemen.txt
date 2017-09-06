@@ -1,0 +1,6 @@
+yumurta
+biber
+domat
+..
+
+
